@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="android_logo">Android Logo</string>
+    <string name="title_name">Gabriel Anareta</string>
+    <string name="subtitle">Bow Valley College Student</string>
+    <string name="icon_desc1">Phone</string>
+    <string name="icon_content1">+1 123-456-7890</string>
+    <string name="icon_desc2">Share</string>
+    <string name="icon_content2">\@BowValley</string>
+    <string name="icon_desc3">Email</string>
+    <string name="icon_content3">exampleEmail@mybvc.com</string>
+</resources>
